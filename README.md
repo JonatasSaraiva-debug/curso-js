@@ -1,2 +1,2 @@
 # curso js
-aprendendo js
+Aprendendo JS

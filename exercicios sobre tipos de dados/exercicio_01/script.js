@@ -1,0 +1,3 @@
+console.log("Olá, mundo!");// aspas duplas servem para criar uma string e permitem a inclusão de aspas simples sem a necessidade de escape  
+console.log('Olá, mundo!');// aspas simples servem para criar uma string e permitem a inclusão de aspas duplas sem a necessidade de escape
+console.log(`Olá, mundo!`);// template literals servem para criar uma string e permitem a interpolação de variáveis e expressões usando ${}.

@@ -1,9 +1,13 @@
-# Curso JS
-# Estudos de JavaScript
+
+# Curso JS - Estudos de JavaScript
 
 Este repositório contém exercícios, práticas e anotações do meu aprendizado em JavaScript.
 
-📚 Curso: Curso JavaScript do básico ao avançado (c/Node.js e projetos) Udemy
-🎯 Objetivo: Construir base sólida para desenvolvimento web
+## 📚 Curso
+JavaScript do básico ao avançado (com Node.js e projetos) - Udemy
 
-⚠️ Observação: Este repositório não contém projetos completos, apenas estudos.
+## 🎯 Objetivo
+Construir uma base sólida em JavaScript e evoluir para o desenvolvimento web completo.
+
+## ⚠️ Observação
+Este repositório contém apenas estudos e exercícios. Projetos completos serão publicados separadamente.
